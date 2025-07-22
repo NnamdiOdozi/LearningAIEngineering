@@ -1,4 +1,4 @@
-import writeStory from './openAi.js';
+import writeStory from './your-openAI.js';
 import express from "express";
 
 const router = express.Router();
